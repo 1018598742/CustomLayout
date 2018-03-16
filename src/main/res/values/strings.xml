@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomLayout</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- 对话框使用 -->
+    <string name="practice">约练</string>
+    <string name="pk">PK</string>
+    <string name="chat">聊天</string>
+</resources>
